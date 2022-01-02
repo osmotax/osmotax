@@ -1,0 +1,7 @@
+requests
+flask
+python-dateutil
+pandas
+pynamodb
+pynamodb_attributes
+tqdm
